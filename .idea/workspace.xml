@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbf45af6-6ff7-41d6-8478-be13272361e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-QuizComponent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZGGb47ZMbohYuQHT5Upevxs1ZR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App Component.renders Quiz component @app-component-displays-quiz-component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js" />
+      <test-names>
+        <test-name value="App Component" />
+        <test-name value="renders Quiz component @app-component-displays-quiz-component" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.App Component.renders Quiz component @app-component-displays-quiz-component" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="~/.ssh/atupri" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf45af6-6ff7-41d6-8478-be13272361e9" name="Default Changelist" comment="" />
+      <created>1584458084675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584458084675</updated>
+      <workItem from="1584458086552" duration="3871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="679" height="440" key="GridCell.Tab.0.bottom" timestamp="1584462610395">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.0.bottom/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610395" />
+    <state width="679" height="440" key="GridCell.Tab.0.center" timestamp="1584462610394">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.0.center/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610394" />
+    <state width="679" height="440" key="GridCell.Tab.0.left" timestamp="1584462610393">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.0.left/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610393" />
+    <state width="679" height="440" key="GridCell.Tab.0.right" timestamp="1584462610394">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.0.right/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610394" />
+    <state width="679" height="440" key="GridCell.Tab.1.bottom" timestamp="1584462610396">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.1.bottom/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610396" />
+    <state width="679" height="440" key="GridCell.Tab.1.center" timestamp="1584462610395">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.1.center/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610395" />
+    <state width="679" height="440" key="GridCell.Tab.1.left" timestamp="1584462610395">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.1.left/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610395" />
+    <state width="679" height="440" key="GridCell.Tab.1.right" timestamp="1584462610396">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.1.right/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610396" />
+    <state width="679" height="440" key="GridCell.Tab.2.bottom" timestamp="1584462610397">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.2.bottom/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610397" />
+    <state width="679" height="440" key="GridCell.Tab.2.center" timestamp="1584462610396">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.2.center/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610396" />
+    <state width="679" height="440" key="GridCell.Tab.2.left" timestamp="1584462610396">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.2.left/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610396" />
+    <state width="679" height="440" key="GridCell.Tab.2.right" timestamp="1584462610397">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.2.right/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610397" />
+    <state width="679" height="440" key="GridCell.Tab.3.bottom" timestamp="1584462610398">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.3.bottom/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610398" />
+    <state width="679" height="440" key="GridCell.Tab.3.center" timestamp="1584462610397">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.3.center/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610397" />
+    <state width="679" height="440" key="GridCell.Tab.3.left" timestamp="1584462610397">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.3.left/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610397" />
+    <state width="679" height="440" key="GridCell.Tab.3.right" timestamp="1584462610397">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state width="679" height="440" key="GridCell.Tab.3.right/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610397" />
+    <state x="1286" y="332" key="SettingsEditor" timestamp="1584458880022">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state x="1286" y="332" key="SettingsEditor/0.23.5120.1377@0.23.5120.1377" timestamp="1584458880022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js</url>
+          <line>22</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
