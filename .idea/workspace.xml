@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbf45af6-6ff7-41d6-8478-be13272361e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QuizQuestionButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuizEnd.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuizQuestion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizQuestion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584458084675</updated>
-      <workItem from="1584458086552" duration="7074000" />
+      <workItem from="1584458086552" duration="8767000" />
     </task>
     <task id="LOCAL-00001" summary="create first quiz component">
       <created>1584462639867</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584463810447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add new inner button component">
+      <created>1584476340191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584476340191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,13 +113,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create first quiz component" />
     <MESSAGE value="add new QuizQuestion component and delegate the behaviour to it" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new QuizQuestion component and delegate the behaviour to it" />
+    <MESSAGE value="add new inner button component" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new inner button component" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1359" y="295" key="CommitChangelistDialog2" timestamp="1584463810350">
+    <state x="1359" y="295" key="CommitChangelistDialog2" timestamp="1584476340092">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
-    <state x="1359" y="295" key="CommitChangelistDialog2/0.23.5120.1377@0.23.5120.1377" timestamp="1584463810350" />
+    <state x="1359" y="295" key="CommitChangelistDialog2/0.23.5120.1377@0.23.5120.1377" timestamp="1584476340092" />
     <state width="679" height="440" key="GridCell.Tab.0.bottom" timestamp="1584462610395">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
@@ -181,10 +189,14 @@
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
     <state x="1286" y="332" key="SettingsEditor/0.23.5120.1377@0.23.5120.1377" timestamp="1584458880022" />
-    <state x="1377" y="433" key="Vcs.Push.Dialog.v2" timestamp="1584463811653">
+    <state x="1377" y="433" key="Vcs.Push.Dialog.v2" timestamp="1584476342018">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
-    <state x="1377" y="433" key="Vcs.Push.Dialog.v2/0.23.5120.1377@0.23.5120.1377" timestamp="1584463811653" />
+    <state x="1377" y="433" key="Vcs.Push.Dialog.v2/0.23.5120.1377@0.23.5120.1377" timestamp="1584476342018" />
+    <state x="1472" y="638" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584477554433">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state x="1472" y="638" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.5120.1377@0.23.5120.1377" timestamp="1584477554433" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
