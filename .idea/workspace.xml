@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dbf45af6-6ff7-41d6-8478-be13272361e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuizQuestion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizQuestion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuizEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizEnd.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584458084675</updated>
-      <workItem from="1584458086552" duration="11882000" />
+      <workItem from="1584458086552" duration="12398000" />
     </task>
     <task id="LOCAL-00001" summary="create first quiz component">
       <created>1584462639867</created>
@@ -117,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584483832654</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add logic if wrong answer was hit">
+      <created>1584484418211</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584484418211</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,13 +137,14 @@
     <MESSAGE value="add new inner button component" />
     <MESSAGE value="add QuizEnd.js and logic to display it or not" />
     <MESSAGE value="add event logic back up and move quiz forward" />
-    <option name="LAST_COMMIT_MESSAGE" value="add event logic back up and move quiz forward" />
+    <MESSAGE value="add logic if wrong answer was hit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add logic if wrong answer was hit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1359" y="295" key="CommitChangelistDialog2" timestamp="1584483832535">
+    <state x="1359" y="295" key="CommitChangelistDialog2" timestamp="1584484418111">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
-    <state x="1359" y="295" key="CommitChangelistDialog2/0.23.5120.1377@0.23.5120.1377" timestamp="1584483832535" />
+    <state x="1359" y="295" key="CommitChangelistDialog2/0.23.5120.1377@0.23.5120.1377" timestamp="1584484418111" />
     <state width="679" height="440" key="GridCell.Tab.0.bottom" timestamp="1584462610395">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
@@ -208,10 +217,10 @@
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
     <state x="1286" y="332" key="SettingsEditor/0.23.5120.1377@0.23.5120.1377" timestamp="1584458880022" />
-    <state x="1377" y="433" key="Vcs.Push.Dialog.v2" timestamp="1584483834388">
+    <state x="1377" y="433" key="Vcs.Push.Dialog.v2" timestamp="1584484419896">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
-    <state x="1377" y="433" key="Vcs.Push.Dialog.v2/0.23.5120.1377@0.23.5120.1377" timestamp="1584483834388" />
+    <state x="1377" y="433" key="Vcs.Push.Dialog.v2/0.23.5120.1377@0.23.5120.1377" timestamp="1584484419896" />
     <state x="1472" y="638" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584477554433">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
