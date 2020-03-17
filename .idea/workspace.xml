@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbf45af6-6ff7-41d6-8478-be13272361e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QuizEnd.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuizQuestion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizQuestion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuizQuestionButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizQuestionButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz_data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584458084675</updated>
-      <workItem from="1584458086552" duration="8767000" />
+      <workItem from="1584458086552" duration="11138000" />
     </task>
     <task id="LOCAL-00001" summary="create first quiz component">
       <created>1584462639867</created>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584476340191</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add QuizEnd.js and logic to display it or not">
+      <created>1584478081177</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584478081177</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,13 +123,14 @@
     <MESSAGE value="create first quiz component" />
     <MESSAGE value="add new QuizQuestion component and delegate the behaviour to it" />
     <MESSAGE value="add new inner button component" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new inner button component" />
+    <MESSAGE value="add QuizEnd.js and logic to display it or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="add QuizEnd.js and logic to display it or not" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1359" y="295" key="CommitChangelistDialog2" timestamp="1584476340092">
+    <state x="1359" y="295" key="CommitChangelistDialog2" timestamp="1584478081090">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
-    <state x="1359" y="295" key="CommitChangelistDialog2/0.23.5120.1377@0.23.5120.1377" timestamp="1584476340092" />
+    <state x="1359" y="295" key="CommitChangelistDialog2/0.23.5120.1377@0.23.5120.1377" timestamp="1584478081090" />
     <state width="679" height="440" key="GridCell.Tab.0.bottom" timestamp="1584462610395">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
@@ -185,14 +195,18 @@
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
     <state width="679" height="440" key="GridCell.Tab.3.right/0.23.5120.1377@0.23.5120.1377" timestamp="1584462610397" />
+    <state x="1403" y="432" key="RollbackChangesDialog" timestamp="1584483796820">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state x="1403" y="432" key="RollbackChangesDialog/0.23.5120.1377@0.23.5120.1377" timestamp="1584483796820" />
     <state x="1286" y="332" key="SettingsEditor" timestamp="1584458880022">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
     <state x="1286" y="332" key="SettingsEditor/0.23.5120.1377@0.23.5120.1377" timestamp="1584458880022" />
-    <state x="1377" y="433" key="Vcs.Push.Dialog.v2" timestamp="1584476342018">
+    <state x="1377" y="433" key="Vcs.Push.Dialog.v2" timestamp="1584478082991">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
-    <state x="1377" y="433" key="Vcs.Push.Dialog.v2/0.23.5120.1377@0.23.5120.1377" timestamp="1584476342018" />
+    <state x="1377" y="433" key="Vcs.Push.Dialog.v2/0.23.5120.1377@0.23.5120.1377" timestamp="1584478082991" />
     <state x="1472" y="638" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584477554433">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
