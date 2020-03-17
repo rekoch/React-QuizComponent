@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbf45af6-6ff7-41d6-8478-be13272361e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React-QuizComponent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuizQuestion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,14 +81,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584458084675</updated>
-      <workItem from="1584458086552" duration="3871000" />
+      <workItem from="1584458086552" duration="5122000" />
     </task>
+    <task id="LOCAL-00001" summary="create first quiz component">
+      <created>1584462639867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584462639867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create first quiz component" />
+    <option name="LAST_COMMIT_MESSAGE" value="create first quiz component" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1359" y="295" key="CommitChangelistDialog2" timestamp="1584462639654">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state x="1359" y="295" key="CommitChangelistDialog2/0.23.5120.1377@0.23.5120.1377" timestamp="1584462639654" />
     <state width="679" height="440" key="GridCell.Tab.0.bottom" timestamp="1584462610395">
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
@@ -163,19 +173,23 @@
       <screen x="0" y="23" width="5120" height="1377" />
     </state>
     <state x="1286" y="332" key="SettingsEditor/0.23.5120.1377@0.23.5120.1377" timestamp="1584458880022" />
+    <state x="1377" y="433" key="Vcs.Push.Dialog.v2" timestamp="1584462641822">
+      <screen x="0" y="23" width="5120" height="1377" />
+    </state>
+    <state x="1377" y="433" key="Vcs.Push.Dialog.v2/0.23.5120.1377@0.23.5120.1377" timestamp="1584462641822" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js</url>
-          <line>19</line>
+          <line>18</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/__tests__/module1/app-component-displays-quiz-component.test.js</url>
-          <line>22</line>
+          <line>21</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
